@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Dokun Digital</title>
+    <link>https://dokundigital.com/tags/</link>
+    <description>Recent content in Tags on Dokun Digital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Made with ❤ by [Vido Kun](https://vidokun.com/) | Copyright 2021 [Origamy Creative](https://origamy.id/)</copyright><atom:link href="https://dokundigital.com/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

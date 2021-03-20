@@ -1,0 +1,152 @@
+######################## default configuration ####################
+baseURL = "https://dokundigital.com/"
+title = "Dokun Digital - Toko Online Produk Virtual Terpercaya"
+theme = "bigspring"
+# post pagination
+paginate = "8"
+# post excerpt
+summaryLength = "15"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/aos/aos.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/aos/aos.js"
+
+
+############################## navigation ###############################
+
+# main menu
+[[menu.main]]
+name = "Blog"
+url = "blog"
+weight = 1
+
+[[menu.main]]
+name = "Produk"
+url = "produk"
+weight = 2
+
+[[menu.main]]
+name = "Kontak"
+url = "contact"
+weight = 3
+
+[[menu.main]]
+name = "FAQ"
+url = "faq"
+weight = 4
+
+# footer menu left
+[[menu.footer_left]]
+name = "Hubungi Kami"
+url = "hubungi-kami"
+
+[[menu.footer_left]]
+name = "Origamy Creative"
+url = "https://origamy.id"
+
+[[menu.footer_left]]
+name = "Official Shopee"
+url = "https://shopee.co.id/dokundigital"
+
+# footer menu middle
+[[menu.footer_middle]]
+name = "Produk"
+url = "produk"
+
+[[menu.footer_middle]]
+name = "Platform"
+url = "#"
+
+[[menu.footer_middle]]
+name = "Features"
+url = "#"
+
+# footer menu right
+[[menu.footer_right]]
+name = "Kebijakan Privasi"
+url = "privasi"
+
+[[menu.footer_right]]
+name = "Persyaratan Layanan"
+url = "persyaratan-layanan"
+
+[[menu.footer_right]]
+name = "FAQ"
+url = "faq"
+
+#################### default parameters ################################
+[params]
+logo = "images/logo-dkn.png"
+logo_width = "200px"
+# Meta data
+description = "Dokun Digital menyediakan berbagai macam produk virtual seperti Akun Google Drive Unlimited, Microsoft Office 365, Jasa Upload Aplikasi ke Playstore, Jasa Pembuatan Google Developer, Jasa Download Freepik, CC Google Developer, CC Google Cloud"
+author = "Dokun Digital"
+# contact form action
+contact_form_action = "https://formspree.io/f/xgepjger" # contact form works with https://formspree.io
+
+# Preloader
+[params.preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation buttons
+[params.navigation_button]
+enable = true
+label = "Belanja Sekarang"
+link = "produk"
+
+  
+############################# social site ########################
+[[params.social]]
+title = "facebook"
+icon = "ti-facebook" 
+link = "https://facebook.com/dokundigital"
+
+[[params.social]]
+title = "email"
+icon = "ti-email" 
+link = "mailto:devergille@gmail.com"
+
+[[params.social]]
+title = "whatsapp"
+icon = "ti-headphone-alt" 
+link = "https://wa.me/6285156190575"
+
+
+############################# English ############################
+[languages.en]
+languageName = "En"
+title = "Dokun Digital"
+contentDir = "content/english" # content/english
+weight = 1
+########### footer content ##########
+footer_menu_left = "Company"
+footer_menu_right = "Dukungan"
+footer_content = "Dokun Digital menjual berbagai macam produk digital, mulai dari Akun, Jasa, Template, Source Code dan lain lain."
+# copyright
+copyright = "Made with ❤ by [Vido Kun](https://vidokun.com/) | Copyright 2021 [Origamy Creative](https://origamy.id/)"

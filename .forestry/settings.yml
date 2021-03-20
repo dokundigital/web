@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: content/english/contact
+  label: Contact
+  create: all
+  match: "**/*"
 - type: heading
   label: Konten
 - type: directory
@@ -19,8 +24,23 @@ sections:
 - type: heading
   label: Halaman
 - type: directory
+  path: content/english/privacy-policy
+  label: Privacy
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/english/terms-condition
+  label: Terms
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/english/faq
+  label: FAQ
+  create: all
+  match: "**/*"
+- type: directory
   path: content/english
-  label: English
+  label: All Page
   create: all
   match: "**/*"
 upload_dir: static/uploads

@@ -29,7 +29,7 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/english/terms-condition
+  path: content/english/terms-conditions
   label: Terms
   create: all
   match: "**/*"

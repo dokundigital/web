@@ -4,21 +4,25 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Konten
+- type: directory
+  path: content/english/produk
+  label: Produk
+  create: all
+  match: "**/*"
 - type: directory
   path: content/english/blog
   label: Blog
   create: all
   match: "**/*"
+- type: heading
+  label: Halaman
 - type: directory
   path: content/english
   label: English
   create: all
   match: "**/*"
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''

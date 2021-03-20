@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+{{ partial "page-header.html" . }}
+
+<!-- checking blog -->
+{{ if or (or (eq .Section "produk") )}}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      {{ $paginator := .Paginate .Data.Pages }}
+      {{ range $paginator.Pages }}
+      <div class="col-md-3 mb-5">
+        <div class="card border-0">
+          <img src="{{ .Params.image |relURL }}" alt="{{ .Title }}" class="card-img mb-4">
+          <div class="card-body p-0">
+            <h3><a href="{{ .Permalink }}" class="post-title">{{ .Title }}</a></h3>
+            <h3 class="p-harga-detail">Rp. {{ .Params.harga }}</h3>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+      <div class="col-12">
+        {{ template "_internal/pagination.html" . }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- regular page -->
+{{ else }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <div class="content">{{ .Content }}</div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ end }}

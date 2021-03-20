@@ -1,0 +1,87 @@
+{{ define "main" }}
+
+{{ $content := (index .Site.Data .Site.Language.Lang) }}
+
+<!-- banner -->
+{{ with $content.homepage.banner }}
+<section class="banner">
+  <div class="container ct-home">
+    <div class="row">
+      <div class="col-md-6 px-4 mx-auto text-center mb-5 order-md-2">
+        {{with .image}}<img data-aos="fade-left" src="{{ . | relURL }}" class="img-fluid" width="750px">{{end}}
+      </div>
+      <div class="col-md-6 py-2 px-4 mx-auto order-md-1">
+        <h2 class="mb-3" data-aos="fade-right">{{ .title | markdownify }}</h2>
+        <p class="mb-4" data-aos="fade-right">{{ .content | markdownify }}</p>
+        {{ if .button.enable }}
+        {{ with .button }}
+        <div class="row px-2">
+          <div class="col-md-6 mb-3 px-1">
+        <a href="{{ .link | safeURL }}" class="btn btn-primary btn-primary btn-lg btn-block data-aos="fade-right><i class="ti-heart"></i> {{ .label }}</a>
+        </div>
+        <div class="col-md-6 mb-5 px-1">
+          <a href="https://shopee.co.id/dokundigital" target="_blank" class="btn btn-shopee btn-lg btn-block data-aos="fade-right><i class="ti-shopping-cart"></i> Belanja di Shopee</a>
+          </div>
+        </div>
+        {{ end }}
+        {{ end }}
+      </div>
+      
+      </div>
+    </div>
+
+</section>
+{{ end }}
+<!-- /banner -->
+
+<!-- feature 
+{{ if $content.homepage.feature.enable }}
+{{ with $content.homepage.feature }}
+<section class="section bg-sec">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 text-center">
+        <h2 class="section-title" data-aos="fade-up">{{ .title | markdownify }}</h2>
+      </div>
+      {{ range .feature_item }}
+      <div class="col-md-4 col-sm-6 mb-4">
+        <div class="feature-card text-center" data-aos="fade-up">
+          <i class="{{.icon}} mb-3"></i>
+          <h4 class="mb-2">{{ .name | title }}</h4>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+-->
+
+<!-- call to action 
+{{ if $content.homepage.call_to_action.enable }}
+{{ with $content.homepage.call_to_action }}
+<section class="section">
+  <div class="container section shadow rounded-lg px-4" data-aos="zoom-in">
+    <div class="row align-items-center justify-content-center text-center text-md-left">
+      <div class="col-lg-4 col-md-5 mb-4 mb-md-0">
+        <img src="{{ .image | relURL }}" class="img-fluid">
+      </div>
+      <div class="col-lg-5 col-md-6">
+        <h2 class="section-title" >{{ .title | markdownify }}</h2>
+        {{with .content }}<p class="mb-4">{{ . | markdownify }}</p>{{ end }}
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a href="{{ .link | relURL }}" class="btn btn-primary">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+ -->
+
+{{ end }}

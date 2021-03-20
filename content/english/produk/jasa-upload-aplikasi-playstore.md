@@ -1,21 +1,16 @@
 ---
-title: "Jasa Upload Aplikasi ke Playstore"
+title: Jasa Upload Aplikasi ke Playstore
 date: 2021-03-13
-# post image
-image: "https://user-images.githubusercontent.com/23431072/111029826-5c325b00-8431-11eb-9468-5e284befce00.png"
-# post type (regular/featured)
-type: "produk"
-# meta description
-description: "Jasa upload aplikasi ke Playstore harga termurah mulai dari 50 ribuan dapat banyak bonus ! klik sekarang untuk mendapatkan harga spesial"
-# post draft
-draft: false
-url : /produk/jasa-upload-apk-ke-playstore
-#produk detail
-harga : "50.000 - 100.000"
-deskripsi : "Jasa Upload APK ke Playstore adalah sebuah layanan jasa yang akan membantu aplikasi anda agar dapat tayang di Google Playstore"
-linkshopee : "https://shopee.co.id/Jasa-Upload-Aplikasi-Ke-Playstore-Google-Play-Console-i.8263390.3353433342"
----
+image: https://user-images.githubusercontent.com/23431072/111029826-5c325b00-8431-11eb-9468-5e284befce00.png
+description: Jasa upload aplikasi ke Playstore harga termurah mulai dari 50 ribuan
+  dapat banyak bonus ! klik sekarang untuk mendapatkan harga spesial
+url: "/produk/jasa-upload-apk-ke-playstore"
+harga: 50.000 - 100.000
+deskripsi: Jasa Upload APK ke Playstore adalah sebuah layanan jasa yang akan membantu
+  aplikasi anda agar dapat tayang di Google Playstore
+linkshopee: https://shopee.co.id/Jasa-Upload-Aplikasi-Ke-Playstore-Google-Play-Console-i.8263390.3353433342
 
+---
 ## 1. Apa itu Jasa Upload APK ke Playstore ? 
 
 Buat kamu pengembang aplikasi android yang ingin mempublikasikan atau mengupload aplikasinya sendiri ke Playstore, Daripada kamu beli akun Google Play Developer yang harganya cukup mahal, persyaratannya cukup ribet dan harus pakai kartu kredit, Mending pakai jasa Dokun Digital aja.
@@ -139,3 +134,14 @@ Kirim semua file diatas ke Whatsapp admin di http://bit.ly/wa-dokun
 
 Kirim semua file diatas ke Whatsapp admin di http://bit.ly/wa-dokun
 
+## 4. Aplikasi yang boleh dipublish 
+
+Berikut adalah Aplikasi yang kami ijinkan untuk tayang di Akun Google Console kami.
+
+1. Aplikasi Ojek Online
+2. Aplikasi Pembelajaran / Pendidikan / Informasi Bermanfaat
+3. Aplikasi Toko Online (jagel.id, bukaolshop, dll.)
+4. Aplikasi Webview (wajib memiliki invoice pembelian domain)
+5. Game (Dibawah 18 th)
+
+Selain dari Aplikasi diatas **silahkan tanyakan dulu via chat / via whatsapp admin**

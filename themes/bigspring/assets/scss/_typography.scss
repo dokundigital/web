@@ -39,6 +39,15 @@
     src: url('/fonts/Poppins-Regular.ttf'); /* IE9 Compat Modes */
     font-display: swap;
   }
+
+  @font-face {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/fonts/DMSans-Regular.ttf'); /* IE9 Compat Modes */
+    font-display: swap;
+  }
+
   /* lato-italic - latin-ext_latin */
   @font-face {
     font-family: 'Lato';

@@ -2,7 +2,12 @@
 .banner {
   padding: 100px 0 50px;
   height: 700px;
+  background : url(/images/hero-bg.png) top center no-repeat;
+  background-attachment: fixed;
 }
+
+.banner-title {
+  font-size:40px !important; }
 
 .feature-card {
   border-radius: 10px;

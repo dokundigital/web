@@ -7,6 +7,23 @@
   }
 }
 
+.bg-nav-scroll {
+  background-color: #f7fcfe!important;
+  box-shadow: 0 0 15px rgba(6, 46, 83, 0.1);
+  transition: 0.3s;
+  transition-timing-function: ease-out;
+}
+
+.nav-atas {
+  position: fixed;
+  padding: 0;
+  z-index: 9;
+}
+
+.navbar-nav .nav-link {
+  padding: 0;
+}
+
 .navbar-light .navbar-nav .nav-link {
   color: $text-color-dark;
 

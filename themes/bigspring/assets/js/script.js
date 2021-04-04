@@ -13,7 +13,16 @@
     $(this).parent().find('.ti-angle-down').removeClass('ti-angle-down').addClass('ti-angle-right');
   });
 
-  
+  window.onscroll = function () { myFunction() };
+const bgScroll = document.getElementById("navbarAtas");
+function myFunction() {
+    if (document.body.scrollTop > 70 || document.documentElement.scrollTop > 70) {
+        bgScroll.classList.add("bg-nav-scroll");
+    } else {
+        bgScroll.classList.remove("bg-nav-scroll");
+    }
+}
+
 	//slider
 	$('.slider').slick({
 		slidesToShow: 1,

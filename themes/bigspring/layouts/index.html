@@ -8,18 +8,18 @@
   <div class="container ct-home">
     <div class="row">
       <div class="col-md-6 px-4 mx-auto text-center mb-5 order-md-2">
-        {{with .image}}<img data-aos="fade-left" src="{{ . | relURL }}" class="img-fluid" width="750px">{{end}}
+        {{with .image}}<img data-aos="zoom-out" src="{{ . | relURL }}" class="img-fluid" width="750px">{{end}}
       </div>
       <div class="col-md-6 py-2 px-4 mx-auto order-md-1">
-        <h2 class="mb-3" data-aos="fade-right">{{ .title | markdownify }}</h2>
+        <h2 class="mb-3 banner-title" data-aos="fade-right">{{ .title | markdownify }}</h2>
         <p class="mb-4" data-aos="fade-right">{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
-        <div class="row px-2">
-          <div class="col-md-6 mb-3 px-1">
+        <div class="row px-2 mt-5">
+          <div class="col-md-6 mb-3 px-1" data-aos="fade-up">
         <a href="{{ .link | safeURL }}" class="btn btn-primary btn-primary btn-lg btn-block data-aos="fade-right><i class="ti-heart"></i> {{ .label }}</a>
         </div>
-        <div class="col-md-6 mb-5 px-1">
+        <div class="col-md-6 mb-5 px-1" data-aos="fade-up">
           <a href="https://shopee.co.id/dokundigital" target="_blank" class="btn btn-shopee btn-lg btn-block data-aos="fade-right><i class="ti-shopping-cart"></i> Belanja di Shopee</a>
           </div>
         </div>

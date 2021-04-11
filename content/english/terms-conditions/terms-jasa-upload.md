@@ -1,12 +1,13 @@
 ---
-title: "Syarat dan Ketentuan Jasa Upload Aplikasi"
-subtitle: ""
-# meta description
-description: "Dokun Digital menyediakan berbagai macam produk virtual seperti Akun Google Drive Unlimited, Microsoft Office 365, Jasa Upload Aplikasi ke Playstore, Jasa Pembuatan Google Developer, Jasa Download Freepik, CC Google Developer, CC Google Cloud"
-draft: false
-url : /terms/jasa-upload-apk
----
+title: Syarat dan Ketentuan Jasa Upload Aplikasi
+subtitle: ''
+description: Dokun Digital menyediakan berbagai macam produk virtual seperti Akun
+  Google Drive Unlimited, Microsoft Office 365, Jasa Upload Aplikasi ke Playstore,
+  Jasa Pembuatan Google Developer, Jasa Download Freepik, CC Google Developer, CC
+  Google Cloud
+url: "/terms/jasa-upload-apk"
 
+---
 ### A. Garansi
 
 1\. Garansi kami **HANYA BERLAKU** saat upload aplikasi sedang berlangsung, apabila saat pertama kali upload aplikasi ditolak oleh Google, karena melanggar kebijakan / tidak sesuai ketentuan / hal lainnya, maka akan kami berikan kesempatan untuk mengupdate / memperbarui aplikasi sesuai dengan ketentuan yang berlaku, TETAPI jika memang tidak memungkinkan untuk tayang **Uang akan kami refund 100%**.
@@ -16,12 +17,12 @@ url : /terms/jasa-upload-apk
 3\. Jika aplikasi sudah tayang di Google Playstore dan AKUN GOOGLE DEV KAMI di BANNED, ada beberapa opsi :
 
 * **Aplikasi tayang sudah berumur 1 bulan / lebih**, akan kami upload di GOOGLE DEV Backup kami, tetapi jika tidak tembus, maka tidak ada retur / pengembalian dana, karena jasa kami bukan JASA SEUMUR HIDUP.
-* **Aplikasi tayang kurang dari 1 bulan**, akan kami upload di GOOGLE DEV Backup kami, tetapi jika tidak tembus, maka akan kami retur 50% dari total paket yang diambil.
+* **Aplikasi tayang kurang dari 7 hari**, akan kami upload di GOOGLE DEV Backup kami, tetapi jika tidak tembus, maka akan kami retur 50% dari total paket yang diambil.
 * Ketentuan ini tidak berlaku untuk **APLIKASI PENYEBAB DI BANNEDNYA AKUN** atau **aplikasi yang melanggar**. Jika aplikasi Anda melanggar, **maka tidak ada refund / pengembalian dana apapun !**.
 
 4\. **APLIKASI TIDAK TAYANG SELAMANYA** tetapi Aplikasi akan tayang selama :  
-a. Selama google mengijinkannya (tidak dihapus oleh google)\
-b. Selama akun kami tersedia (tidak dibanned oleh google)\
+a. Selama google mengijinkannya (tidak dihapus oleh google)  
+b. Selama akun kami tersedia (tidak dibanned oleh google)  
 c. Selama kami & google tidak merubah kebijakan
 
 ### B. Kebijakan Google Developer
@@ -31,7 +32,6 @@ c. Selama kami & google tidak merubah kebijakan
 * Perjanjian Pengembang : [https://play.google.com/about/developer-distribution-agreement.html](https://play.google.com/about/developer-distribution-agreement.html)
 * Persyaratan dan Layanan : [https://play.google.com/about/console/terms-of-service/](https://play.google.com/about/console/terms-of-service/)
 * Privacy : [https://policies.google.com/privacy](https://policies.google.com/privacy)
-
 
 ### C. Informasi Akun dan Akses Google Play Console
 

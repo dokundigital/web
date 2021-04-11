@@ -35,13 +35,13 @@ c. Selama kami & google tidak merubah kebijakan
 
 ### C. Informasi Akun dan Akses Google Play Console
 
-1\. Semua yang berlangganan Jasa Upload Aplikasi di Dokun Digital akan kami berikan akses untuk membalas / review dari user yang bisa diakses di [https://play.google.com/apps/publish](https://play.google.com/apps/publish)
+1\. Untuk pemesanan paket APP-PLUS dan APP-PLATINUM Jasa Upload Aplikasi di Dokun Digital akan kami berikan akses untuk membalas / review dari user yang bisa diakses di [https://play.google.com/apps/publish](https://play.google.com/apps/publish).
 
-2\. Untuk paket APP-PLATINUM, Anda dapat bebas update Aplikasi dengan mengikuti syarat dan ketentuan Google, maksimal **update 1x dalam seminggu**. jika terbukti melebihi ketentuan, akses update akan kami cabut.
+2\. Untuk paket APP-PLATINUM, Anda dapat bebas update Aplikasi dengan mengikuti syarat dan ketentuan Google, maksimal **update 1x dalam seminggu**.
 
 3\. Untuk paket APP-STANDAR, jika kami menerima UPDATE KEBIJAKAN dari Google dan aplikasi diharuskan untuk update, maka diharuskan membayar Rp.50.000 untuk mengupdate paket dari APP-STANDAR ke APP-PLUS. Jika memilih opsi untuk tidak update maka aplikasi akan dihapus otomatis oleh Google.
 
-4\. Sebelum update aplikasi via Google Play Console, wajib menginfokan kami.
+4\. Update aplikasi hanya dilakukan oleh admin, jadi untuk yang ingin update aplikasi silahkan kirimkan Aplikasi terbaru yang sudah ditingkatkan versinya.
 
 5\. Jika Anda mengupdate aplikasi ke versi yang lebih baru, kemudian kami mendapatkan notifikasi pelanggaran dari Google lebih dari 2x, maka aplikasi akan kita hapus / tarik dari playstore.
 

@@ -10,14 +10,14 @@ url: "/terms/jasa-upload-apk"
 ---
 ### A. Garansi
 
-1\. Garansi kami **HANYA BERLAKU** saat upload aplikasi sedang berlangsung, apabila saat pertama kali upload aplikasi ditolak oleh Google, karena melanggar kebijakan / tidak sesuai ketentuan / hal lainnya, maka akan kami berikan kesempatan untuk mengupdate / memperbarui aplikasi sesuai dengan ketentuan yang berlaku, TETAPI jika memang tidak memungkinkan untuk tayang **Uang akan kami refund 100%**.
+1\. Garansi kami **HANYA BERLAKU** saat upload aplikasi sedang berlangsung, apabila saat pertama kali upload aplikasi ditolak oleh Google, karena melanggar kebijakan / tidak sesuai ketentuan / hal lainnya, maka akan kami berikan kesempatan untuk mengupdate / memperbarui aplikasi sesuai dengan ketentuan yang berlaku, TETAPI jika memang tidak memungkinkan untuk tayang **Uang akan kami refund dengan biaya charge**.
 
 2\. Jika aplikasi sudah tayang di Google Playstore dan beberapa hari kemudian dihapus oleh pihak Playstore karena pelanggaran yang dilakukan **maka aplikasi tidak dapat kami tayangkan kembali dan tidak ada refund !**.
 
 3\. Jika aplikasi sudah tayang di Google Playstore dan AKUN GOOGLE DEV KAMI di BANNED, ada beberapa opsi :
 
 * **Aplikasi tayang sudah berumur 1 bulan / lebih**, akan kami upload di GOOGLE DEV Backup kami, tetapi jika tidak tembus, maka tidak ada retur / pengembalian dana, karena jasa kami bukan JASA SEUMUR HIDUP.
-* **Aplikasi tayang kurang dari 7 hari**, akan kami upload di GOOGLE DEV Backup kami, tetapi jika tidak tembus, maka akan kami retur 50% dari total paket yang diambil.
+* **Aplikasi tayang kurang dari 7 hari**, akan kami upload di GOOGLE DEV Backup kami, tetapi jika tidak tembus, maka akan kami refund 50% dari total paket yang diambil.
 * Ketentuan ini tidak berlaku untuk **APLIKASI PENYEBAB DI BANNEDNYA AKUN** atau **aplikasi yang melanggar**. Jika aplikasi Anda melanggar, **maka tidak ada refund / pengembalian dana apapun !**.
 
 4\. **APLIKASI TIDAK TAYANG SELAMANYA** tetapi Aplikasi akan tayang selama :  
@@ -46,3 +46,11 @@ c. Selama kami & google tidak merubah kebijakan
 5\. Jika Anda mengupdate aplikasi ke versi yang lebih baru, kemudian kami mendapatkan notifikasi pelanggaran dari Google lebih dari 2x, maka aplikasi akan kita hapus / tarik dari playstore.
 
 Semua pelanggan / calon pelanggan wajib mematuhi Syarat dan Ketentuan Jasa Upload Aplikasi Dokun Digital,  Syarat dan Ketentuan diatas dapat berubah sewaktu-waktu mengikuti kebijakan Google Play Developer.
+
+### D. Refund
+
+1\. Refund hanya berlaku sesuai kondisi yang sudah dijelaskan diatas.
+
+2\. Dana Refund akan dikirimkan melalui rekening kami dan akan dikenakan biaya charge (10rb)
+
+3\. Untuk pemesanan via Shopee jika ada "Refund" maka harus menyelesaikan pesanan terlebih dahulu serta memberi rating 5, apabila tidak memberi rating 5 maka dana dinyatakan hangus.

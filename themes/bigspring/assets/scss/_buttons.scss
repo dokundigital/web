@@ -36,6 +36,23 @@
     background-color:#F06549;
     color:#fff !important;
   }
+
+  
+}
+
+.btn-bluehome {
+  background-color: #3C5D95;
+  color: $white;
+  border-color: #3C5D95;
+  right:5px;
+
+  &:active,
+  &:hover {
+    background-color:#ee4d2d;
+    color:#fff !important;
+  }
+
+  
 }
 
 .btn-outline-primary {

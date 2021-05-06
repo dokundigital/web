@@ -26,8 +26,75 @@ Berikut adalah paket Jasa Upload APK ke Playstore
 ### Paket yang tersedia untuk Jasa Upload APK ke Playstore
 
 <div class="row mt-5">
+  
+  <!-- APP STANDAR -->
+  <div class="col-md-4 mx-auto mt-3 px-4">
+     <div class="card pricing-rates starter-plan text-center shadow rounded-lg border-0">
+        <div class="card-body py-3">
+          <h3 class="title text-primary">APP-STANDAR</h3>
+                 <hr>
+                   <h3 class="h3 mb-3 mt-2">Rp. 50.000,-</h3>
+                     <ul class="list-unstyled text-left">
+                        <p class="text-muted text-feature mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span></i>Upload 1 Aplikasi</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-danger h5 mr-2"><i class="uim uim-exclamation-circle"></i></span></i>Balas Ulasan</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-danger h5 mr-2"><i class="uim uim-exclamation-circle"></i></span></i>Update Aplikasi</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-danger h5 mr-2"><i class="uim uim-exclamation-circle"></i></span></i>Update Listingan</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-danger h5 mr-2"><i class="uim uim-exclamation-circle"></i></span></i>Dibuatkan desain screenshot</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-danger h5 mr-2"><i class="uim uim-exclamation-circle"></i></span></i>Dibuatkan desain banner</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-danger h5 mr-2"><i class="uim uim-exclamation-circle"></i></span></i>Dibuatkan halaman privacy policy</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-danger h5 mr-2"><i class="uim uim-exclamation-circle"></i></span></i>Bonus Template Landing Page (Claim)</p>
+                        </ul>
+           <a href="https://app.tokoorder.com/product/tokoorder-digital-personal/" class="btn btn-primary   mt-2 text-order">Pesan Sekarang</a>
+        </div>
+      </div>
+    </div>
 
-<div class="col-md-4"> <!-- APP-STANDAR -->
+  <!-- APP PLUS -->
+  <div class="col-md-4 mx-auto mt-3 px-4">
+     <div class="card pricing-rates starter-plan text-center shadow rounded-lg border-0">
+        <div class="card-body py-3">
+          <h3 class="title text-primary">APP-PLUS</h3>
+                 <hr>
+                   <h3 class="h3 mb-3 mt-2">Rp. 75.000,-</h3>
+                     <ul class="list-unstyled text-left">
+                        <p class="text-muted text-feature mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span></i>Upload 1 Aplikasi</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span></i>Balas Ulasan</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-danger h5 mr-2"><i class="uim uim-exclamation-circle"></i></span></i>Update Aplikasi</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-danger h5 mr-2"><i class="uim uim-exclamation-circle"></i></span></i>Update Listingan</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-danger h5 mr-2"><i class="uim uim-exclamation-circle"></i></span></i>Dibuatkan desain screenshot</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-danger h5 mr-2"><i class="uim uim-exclamation-circle"></i></span></i>Dibuatkan desain banner</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-danger h5 mr-2"><i class="uim uim-exclamation-circle"></i></span></i>Dibuatkan halaman privacy policy</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-danger h5 mr-2"><i class="uim uim-exclamation-circle"></i></span></i>Bonus Template Landing Page (Claim)</p>
+                        </ul>
+           <a href="https://app.tokoorder.com/product/tokoorder-digital-personal/" class="btn btn-primary   mt-2 text-order">Pesan Sekarang</a>
+        </div>
+      </div>
+    </div>
+
+  <!-- APP PLATINUM -->
+  <div class="col-md-4 mx-auto mt-3 px-4">
+     <div class="card pricing-rates starter-plan text-center shadow rounded-lg border-0">
+        <div class="card-body py-3">
+          <h3 class="title text-primary">APP-PLUS</h3>
+                 <hr>
+                   <h3 class="h3 mb-3 mt-2">Rp. 75.000,-</h3>
+                     <ul class="list-unstyled text-left">
+                        <p class="text-muted text-feature mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span></i>Upload 1 Aplikasi</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span></i>Balas Ulasan</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span></i>Update Aplikasi</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span></i>Update Listingan</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span></i>Dibuatkan desain screenshot</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span></i>Dibuatkan desain banner</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span></i>Dibuatkan halaman privacy policy</p>
+                        <p class="text-muted text-feature mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span></i>Bonus Template Landing Page (Claim)</p>
+                        </ul>
+           <a href="https://app.tokoorder.com/product/tokoorder-digital-personal/" class="btn btn-primary   mt-2 text-order">Pesan Sekarang</a>
+        </div>
+      </div>
+    </div>
+
+
+<!--<div class="col-md-4"> 
 <div class="card">
 <div class="card-body">
 <h5 class="card-title">APP-STANDAR</h5>
@@ -45,7 +112,7 @@ Berikut adalah paket Jasa Upload APK ke Playstore
 </div>
 </div>
 
-<div class="col-md-4"> <!-- APP-PLUS -->
+<div class="col-md-4"> 
 <div class="card">
 <div class="card-body">
 <h5 class="card-title">APP-PLUS</h5>
@@ -63,7 +130,7 @@ Berikut adalah paket Jasa Upload APK ke Playstore
 </div>
 </div>
 
-<div class="col-md-4"> <!-- APP-PLATINUM -->
+<div class="col-md-4"> 
 <div class="card">
 <div class="card-body">
 <h5 class="card-title">APP-PLATINUM</h5>
@@ -79,7 +146,7 @@ Berikut adalah paket Jasa Upload APK ke Playstore
 </ul>
 </div>
 </div>
-</div>
+</div> -->
 
 <!-- <div class="col-md-3"> <!-- APP-MAX
 <div class="card">

@@ -7,10 +7,10 @@ draft: false
 ---
 
 
-### Halooo !
+### Hubungi Kami
 Kamu bisa menghubungi Dokun Digital kapanpun dan dimanapun, kami siap melayani semua pertanyaan kamu !
 
-* **Whatsapp: +62 851 5619 0575** 
-* **Telegram : dokundigital**
-* **Email: devergille@gmail.com**
-* **Address: Pondok Karadenan Asri 2, W-9**
+* Whatsapp: +62 851 5619 0575
+* Telegram : dokundigital
+* Email: devergille@gmail.com
+* Address: Pondok Karadenan Asri 2, W-9

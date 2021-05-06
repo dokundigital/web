@@ -11,10 +11,16 @@
         {{with .image}}<img data-aos="zoom-out" src="{{ . | relURL }}" class="img-fluid" width="750px">{{end}}
       </div>
       <div class="col-md-6 py-2 px-4 mx-auto order-md-1">
-        <h2 class="mb-3 banner-title" data-aos="fade-right">{{ .title | markdownify }}</h2>
+        <h3 class="mb-3 banner-title" data-aos="fade-right">{{ .title | markdownify }}</h3>
         <p class="mb-4" data-aos="fade-right">{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
+
+        <div class="col-md-6 mb-5 px-1" data-aos="fade-up">
+          <a href="https://shopee.co.id/dokundigital" target="_blank" class="btn btn-bluehome btn-lg btn-block data-aos="fade-right><i class="ti-shopping-cart"></i> Belanja di Shopee</a>
+          </div>
+
+        <!--Backup 
         <div class="row px-2 mt-5">
           <div class="col-md-6 mb-3 px-1" data-aos="fade-up">
         <a href="{{ .link | safeURL }}" class="btn btn-primary btn-primary btn-lg btn-block data-aos="fade-right><i class="ti-heart"></i> {{ .label }}</a>
@@ -22,14 +28,56 @@
         <div class="col-md-6 mb-5 px-1" data-aos="fade-up">
           <a href="https://shopee.co.id/dokundigital" target="_blank" class="btn btn-shopee btn-lg btn-block data-aos="fade-right><i class="ti-shopping-cart"></i> Belanja di Shopee</a>
           </div>
-        </div>
+        </div> -->
+        
         {{ end }}
         {{ end }}
+        
       </div>
       
+      
       </div>
+      
     </div>
 
+</section>
+
+<!-- Section USP -->
+<section id="fitur" class="section bg-light">
+  <section class="container mt-50 mt-60">
+      <h2 class="title mb-4 text-center">Kenapa harus belanja di Dokun Digital ?</h2>
+
+      <section class="row">
+
+          <div class="col-md-4 mt-3">
+              <div class="card explore-feature border-0 rounded-lg text-center bg-white shadow " data-aos="fade-up">
+                  <div class="card-body card-usp ">
+                      <img src="images/murah.png" class="usp"/>
+                      <h3 class="mt-3 title">Harga Murah</h3>
+                      <p class="text-muted mb-0">Produk yang kami jual sudah paling murah di pasaran</p>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-4 mt-3">
+              <div class="card explore-feature border-0 rounded-lg text-center bg-white shadow" data-aos="fade-up">
+                  <div class="card-body card-usp">
+                    <img src="images/terjamin.png" class="usp"/>
+                      <h3 class="mt-3 title">Kualitas Terjamin</h3>
+                      <p class="text-muted mb-0">Produk yang kami jual sudah melalui QC yang baik sehingga terjamin </p>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-4 mt-3">
+              <div class="card explore-feature border-0 rounded-lg text-center bg-white shadow" data-aos="fade-up">
+                  <div class="card-body card-usp">
+                    <img src="images/support.png" class="usp"/>
+                      <h3 class="mt-3 title">Layanan Purna Jual</h3>
+                      <p class="text-muted mb-0">Gratis konsultasi dan bantuan selamanya</p>
+                  </div>
+              </div>
+          </div>
+      </section>
+  </section>
 </section>
 {{ end }}
 <!-- /banner -->

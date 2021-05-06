@@ -25,6 +25,8 @@ link = "plugins/themify-icons/themify-icons.css"
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "plugins/aos/aos.css"
+[[params.plugins.css]]
+link = "https://unicons.iconscout.com/release/v2.1.9/css/unicons.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -35,23 +37,25 @@ link = "plugins/bootstrap/bootstrap.min.js"
 link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 link = "plugins/aos/aos.js"
+[[params.plugins.js]]
+link = "https://unicons.iconscout.com/release/v2.1.9/script/monochrome/bundle.js"
 
 
 ############################## navigation ###############################
 
 # main menu
 [[menu.main]]
-name = "Blog"
+name = "BLOG"
 url = "blog"
 weight = 1
 
 [[menu.main]]
-name = "Produk"
+name = "PRODUK"
 url = "produk"
 weight = 2
 
 [[menu.main]]
-name = "Kontak"
+name = "KONTAK"
 url = "contact"
 weight = 3
 

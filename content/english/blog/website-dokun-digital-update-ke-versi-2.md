@@ -1,7 +1,6 @@
 +++
 date = 2021-05-06T17:00:00Z
 description = "Website Dokun Digital akhirnya mendapatkan versi update ! simak apa saja perubahannya"
-draft = true
 image = "/uploads/blog/post-1.jpg"
 title = "Website Dokun Digital Update ke versi 2"
 type = ""

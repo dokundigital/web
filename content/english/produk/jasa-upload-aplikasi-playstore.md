@@ -75,9 +75,9 @@ Berikut adalah paket Jasa Upload APK ke Playstore
   <div class="col-md-4 mx-auto mt-3 px-4">
      <div class="card pricing-rates starter-plan text-center shadow rounded-lg border-0">
         <div class="card-body py-3">
-          <h3 class="title text-primary">APP-PLUS</h3>
+          <h3 class="title text-primary">APP-PLATINUM</h3>
                  <hr>
-                   <h3 class="h3 mb-3 mt-2">Rp. 75.000,-</h3>
+                   <h3 class="h3 mb-3 mt-2">Rp. 100.000,-</h3>
                      <ul class="list-unstyled text-left">
                         <p class="text-muted text-feature mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span></i>Upload 1 Aplikasi</p>
                         <p class="text-muted text-feature mb-0"><span class="text-primary h5 mr-2"><i class="uim uim-check-circle"></i></span></i>Balas Ulasan</p>

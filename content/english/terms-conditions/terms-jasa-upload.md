@@ -49,7 +49,7 @@ c. Perlu diperhatikan bahwa dalam 1 akun kami memiliki berbagai macam aplikasi y
 
 5\. Jika Anda mengupdate aplikasi ke versi yang lebih baru, kemudian kami mendapatkan notifikasi pelanggaran dari Google lebih dari 2x, maka aplikasi akan kita hapus / tarik dari playstore.
 
-Semua pelanggan / calon pelanggan wajib mematuhi Syarat dan Ketentuan Jasa Upload Aplikasi Dokun Digital,  Syarat dan Ketentuan diatas dapat berubah sewaktu-waktu mengikuti kebijakan Google Play Developer.
+6\. Kami berhak menghapus aplikasi yang melanggar ketentuan google play tanpa pemberitahuan sebelumnya.
 
 ### D. Refund
 
@@ -58,5 +58,7 @@ Semua pelanggan / calon pelanggan wajib mematuhi Syarat dan Ketentuan Jasa Uploa
 2\. Dana Refund akan dikirimkan melalui rekening kami dan akan dikenakan biaya charge (10rb)
 
 3\. Untuk pemesanan via Shopee jika ada "Refund" maka harus menyelesaikan pesanan terlebih dahulu serta memberi rating 5, apabila tidak memberi rating 5 maka dana dinyatakan hangus.
+
+Semua pelanggan / calon pelanggan wajib mematuhi Syarat dan Ketentuan Jasa Upload Aplikasi Dokun Digital,  Syarat dan Ketentuan diatas dapat berubah sewaktu-waktu mengikuti kebijakan Google Play Developer.
 
 Dengan membeli / memesan jasa ini, Anda sama dengan menyetujui dengan syarat dan ketentuan layanan dari Dokun Digital.

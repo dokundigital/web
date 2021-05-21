@@ -61,4 +61,4 @@ c. Perlu diperhatikan bahwa dalam 1 akun kami memiliki berbagai macam aplikasi y
 
 Semua pelanggan / calon pelanggan wajib mematuhi Syarat dan Ketentuan Jasa Upload Aplikasi Dokun Digital,  Syarat dan Ketentuan diatas dapat berubah sewaktu-waktu mengikuti kebijakan Google Play Developer.
 
-Dengan membeli / memesan jasa ini, Anda sama dengan menyetujui dengan syarat dan ketentuan layanan dari Dokun Digital.
+Dengan membeli / memesan jasa ini, Anda sama dengan menyetujui  syarat dan ketentuan layanan dari Dokun Digital.

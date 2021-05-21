@@ -13,7 +13,7 @@ url: "/terms/jasa-upload-apk"
 1\. Apabila saat pertama kali upload aplikasi ditolak oleh Google, karena aplikasi melanggar kebijakan / tidak sesuai ketentuan / hal lainnya, maka akan kami berikan kesempatan untuk mengupdate / memperbarui aplikasi sesuai dengan ketentuan yang berlaku, TETAPI jika aplikasi memang tidak memungkinkan untuk ditayangkan **Uang akan kami refund dengan biaya charge**.
 
 2\. **GARANSI 30 HARI aplikasi akan tayang di playstore**
-garansi berlaku apabila aplikasi dihapus atau akun kami dibanned garansi tersebut berupa :\
+,garansi berlaku apabila aplikasi dihapus atau akun kami terbanned ,garansi tersebut berupa :\
 a. Kami akan mengajukan banding ke aplikasi / ke akun yang terbanned agar dapat dipulihkan kembali\
 b. Kami akan upload aplikasi ke akun Google Developer lain yang tersedia
 
@@ -26,7 +26,8 @@ c. Selama kami & google tidak merubah kebijakan
 
 **Note :\
 a. Garansi 30 hari hanya berlaku terhadap aplikasi yang tidak melanggar !.\
-b. Tidak ada retur / pengembalian dana kecuali pada saat proses upload awal aplikasi, karena jasa kami bukan JASA SEUMUR HIDUP.
+b. Tidak ada retur / pengembalian dana kecuali pada saat proses upload awal aplikasi, karena jasa kami bukan JASA SEUMUR HIDUP.\
+c. Perlu diperhatikan bahwa dalam 1 akun kami memiliki berbagai macam aplikasi yang diupload oleh pelanggan lain, oleh sebab itu Anda harus siap apabila suatu saat terjadi hal yang tidak diinginkan
 
 ### B. Kebijakan Google Developer
 
@@ -57,3 +58,5 @@ Semua pelanggan / calon pelanggan wajib mematuhi Syarat dan Ketentuan Jasa Uploa
 2\. Dana Refund akan dikirimkan melalui rekening kami dan akan dikenakan biaya charge (10rb)
 
 3\. Untuk pemesanan via Shopee jika ada "Refund" maka harus menyelesaikan pesanan terlebih dahulu serta memberi rating 5, apabila tidak memberi rating 5 maka dana dinyatakan hangus.
+
+Dengan membeli / memesan jasa ini, Anda sama dengan menyetujui dengan syarat dan ketentuan layanan dari Dokun Digital.

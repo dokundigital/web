@@ -8,22 +8,25 @@ description: Dokun Digital menyediakan berbagai macam produk virtual seperti Aku
 url: "/terms/jasa-upload-apk"
 
 ---
-### A. Garansi
+### A. Ketentuan Upload & Garansi
 
-1\. Garansi kami **HANYA BERLAKU** saat upload aplikasi sedang berlangsung, apabila saat pertama kali upload aplikasi ditolak oleh Google, karena melanggar kebijakan / tidak sesuai ketentuan / hal lainnya, maka akan kami berikan kesempatan untuk mengupdate / memperbarui aplikasi sesuai dengan ketentuan yang berlaku, TETAPI jika memang tidak memungkinkan untuk tayang **Uang akan kami refund dengan biaya charge**.
+1\. Apabila saat pertama kali upload aplikasi ditolak oleh Google, karena aplikasi melanggar kebijakan / tidak sesuai ketentuan / hal lainnya, maka akan kami berikan kesempatan untuk mengupdate / memperbarui aplikasi sesuai dengan ketentuan yang berlaku, TETAPI jika aplikasi memang tidak memungkinkan untuk ditayangkan **Uang akan kami refund dengan biaya charge**.
 
-2\. Jika aplikasi sudah tayang di Google Playstore dan beberapa hari kemudian dihapus oleh pihak Playstore karena pelanggaran yang dilakukan **maka aplikasi tidak dapat kami tayangkan kembali dan tidak ada refund !**.
+2\. **GARANSI 30 HARI aplikasi akan tayang di playstore**
+garansi berlaku apabila aplikasi dihapus atau akun kami dibanned garansi tersebut berupa :
+a. Kami akan mengajukan banding ke aplikasi / ke akun yang terbanned agar dapat dipulihkan kembali
+b. Kami akan upload aplikasi ke akun Google Developer lain yang tersedia
 
-3\. Jika aplikasi sudah tayang di Google Playstore dan AKUN GOOGLE DEV KAMI di BANNED, ada beberapa opsi :
-
-* **Aplikasi tayang sudah berumur 1 bulan / lebih**, akan kami upload di GOOGLE DEV Backup kami, tetapi jika tidak tembus, maka tidak ada retur / pengembalian dana, karena jasa kami bukan JASA SEUMUR HIDUP.
-* **Aplikasi tayang kurang dari 7 hari**, akan kami upload di GOOGLE DEV Backup kami, tetapi jika tidak tembus, maka akan kami refund 50% dari total paket yang diambil.
-* Ketentuan ini tidak berlaku untuk **APLIKASI PENYEBAB DI BANNEDNYA AKUN** atau **aplikasi yang melanggar**. Jika aplikasi Anda melanggar, **maka tidak ada refund / pengembalian dana apapun !**.
+3\. Jika aplikasi sudah tayang di Google Playstore dan belum sampai 7 hari dihapus oleh pihak Playstore karena pelanggaran yang dilakukan **maka aplikasi tidak dapat kami tayangkan kembali dan tidak ada refund !**.
 
 4\. **APLIKASI TIDAK TAYANG SELAMANYA** tetapi Aplikasi akan tayang selama :  
 a. Selama google mengijinkannya (tidak dihapus oleh google)  
 b. Selama akun kami tersedia (tidak dibanned oleh google)  
 c. Selama kami & google tidak merubah kebijakan
+
+**Note :
+a. Garansi 30 hari hanya berlaku terhadap aplikasi yang tidak melanggar !.
+b. Tidak ada retur / pengembalian dana kecuali pada saat proses upload awal aplikasi, karena jasa kami bukan JASA SEUMUR HIDUP.
 
 ### B. Kebijakan Google Developer
 

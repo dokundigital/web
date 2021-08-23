@@ -8,7 +8,7 @@ type: "produk"
 # meta description
 description: "Jual akun Microsoft Office 365 murah !"
 # post draft
-draft: false
+draft: true
 url : /produk/office-365
 #produk detail
 harga : "35.000 (KOSONG)"

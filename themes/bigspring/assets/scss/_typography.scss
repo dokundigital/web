@@ -37,7 +37,8 @@
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
-    src: url('/fonts/Poppins-Regular.ttf'); /* IE9 Compat Modes */
+    src: url('/fonts/Poppins-Regular.ttf'),
+    ('/fonts/Poppins-Bold.ttf'); /* IE9 Compat Modes */
     font-display: swap;
   }
 
@@ -130,7 +131,7 @@ h3, .h3,
 h4, .h4,
 h5, .h5,
 h6, .h6 {
-  color: $text-color-dark;
+  color: $text-color;
   font-family: $primary-font;
   font-weight: 700;
   line-height: 1.2;

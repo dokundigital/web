@@ -41,10 +41,14 @@
 }
 
 .btn-bluehome {
-  background-color: #3C5D95;
-  color: $white;
-  border-color: #3C5D95;
-  right:5px;
+  background:$primary-color;
+  color: #fff;
+  font-size: 16px;
+  padding: 11px;
+  border-radius: 100px;
+  border: 0;
+  font-weight: 500;
+  transition: all .4s;
 
   &:active,
   &:hover {

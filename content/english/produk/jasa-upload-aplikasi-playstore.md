@@ -1,7 +1,7 @@
 ---
 title: Jasa Upload Aplikasi ke Playstore
 date: 2021-03-13
-image: https://user-images.githubusercontent.com/23431072/111029826-5c325b00-8431-11eb-9468-5e284befce00.png
+image: https://1.bp.blogspot.com/-_na7hKoQWLs/YSN9s9QDwKI/AAAAAAAAFfQ/7ur87atR69QmTE2ZyhrlT0N38__lesY7ACLcBGAsYHQ/s0/fix-upload-app-dokun-digital.png
 description: Jasa upload aplikasi ke Playstore harga termurah mulai dari 50 ribuan
   dapat banyak bonus ! klik sekarang untuk mendapatkan harga spesial
 url: "/produk/jasa-upload-apk-ke-playstore"

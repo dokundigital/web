@@ -1,8 +1,8 @@
 ####################### Banner #########################
 banner:
-  title : "Menjual berbagai macam produk digital"
-  image : "images/banner-art.svg"
-  content : "Dokun Digital menyediakan semua kebutuhan produk digital <br> untuk anda. Belanja sekarang !"
+  title : "Menyediakan Berbagai Macam Produk Digital"
+  image : "images/tumbuh.svg"
+  content : "Mulai dari Jasa Pembuatan Web, Design Sosial Media, Template Web dan masih banyak lagi !"
   button:
     enable : true
     label : "Belanja Sekarang"

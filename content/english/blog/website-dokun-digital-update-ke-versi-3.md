@@ -1,5 +1,5 @@
 +++
-date = 2021-05-06T17:00:00Z
+date = 2021-08-23T17:00:00Z
 description = "Website Dokun Digital akhirnya mendapatkan versi update ! simak apa saja perubahannya"
 image = "/images/blog/post-1.jpg"
 title = "Website Dokun Digital Update ke versi 3"

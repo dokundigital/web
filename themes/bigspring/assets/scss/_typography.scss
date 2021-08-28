@@ -3,8 +3,6 @@
 // Include Lato font from Google CDN - better performance
 @if $font-hosting == 'google' {
   @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
-  @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 }
@@ -35,15 +33,6 @@
   }
 
   @font-face {
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    src: url('/fonts/Poppins-Regular.ttf'),
-    ('/fonts/Poppins-Bold.ttf'); /* IE9 Compat Modes */
-    font-display: swap;
-  }
-
-  @font-face {
     font-family: 'DM Sans';
     font-style: normal;
     font-weight: 400;
@@ -51,13 +40,6 @@
     font-display: swap;
   }
 
-  @font-face {
-    font-family: 'Nunito';
-    font-style: normal;
-    font-weight: 400;
-    src: url('/fonts/Nunito-Regular.ttf'); /* IE9 Compat Modes */
-    font-display: swap;
-  }
 
   /* lato-italic - latin-ext_latin */
   @font-face {

@@ -15,6 +15,9 @@
   {{ range site.Params.plugins.css }}
   {{ if findRE "^http" .link }}
   <link rel="stylesheet" href="{{ .link | relURL }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
   {{ else }}
   {{ $allcss = $allcss | append (resources.Get .link) }}
   {{ end }}

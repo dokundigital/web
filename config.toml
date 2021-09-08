@@ -55,8 +55,8 @@ url = "produk"
 weight = 2
 
 [[menu.main]]
-name = "Kontak"
-url = "contact"
+name = "Produk"
+url = "produk"
 weight = 3
 
 [[menu.main]]
@@ -153,4 +153,4 @@ footer_menu_left = "Company"
 footer_menu_right = "Dukungan"
 footer_content = "Temukan berbagai macam produk digital untuk bisnis kamu hanya di Dokun Digital."
 # copyright
-copyright = "Made with ❤ by [Vido Kun](https://vidokun.com/) | Copyright 2021 [Origamy Creative](https://origamy.id/)"
+copyright = "Made with ❤ by [Vido Kun](https://vidokun.com/) | Copyright &copy; 2021 Dokun Digital"

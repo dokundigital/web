@@ -1,10 +1,7 @@
 ---
 title: Frequently Asked Questions
 subtitle: ''
-description: Dokun Digital menyediakan berbagai macam produk virtual seperti Akun
-  Google Drive Unlimited, Microsoft Office 365, Jasa Upload Aplikasi ke Playstore,
-  Jasa Pembuatan Google Developer, Jasa Download Freepik, CC Google Developer, CC
-  Google Cloud
+description: Pertanyaan yang sering ditanyakan seputar Jasa Pembuatan Web, Jasa Upload Aplikasi ke Playstore, Jasa Pembuatan Google Developer, CC Google Developer, CC Google Cloud, Template Wordpress, Template Blogger dan produk digital lainnya.
 
 ---
 {{< faq "Cara mudah belanja di Dokun Digital" >}}

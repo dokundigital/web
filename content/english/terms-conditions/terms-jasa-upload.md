@@ -10,13 +10,15 @@ url: "/terms/jasa-upload-apk"
 ---
 ### A. Ketentuan Upload & Garansi
 
-1\. Apabila saat pertama kali upload aplikasi ditolak oleh Google, karena aplikasi melanggar kebijakan / tidak sesuai ketentuan / hal lainnya, maka akan kami berikan kesempatan untuk mengupdate / memperbarui aplikasi sesuai dengan ketentuan yang berlaku, TETAPI jika aplikasi memang tidak memungkinkan untuk ditayangkan **Uang akan kami refund dengan biaya charge**.
+1\. Apabila saat pertama kali upload aplikasi ditolak oleh Google, karena aplikasi melanggar kebijakan / tidak sesuai ketentuan / hal lainnya, maka akan kami berikan kesempatan dan kami bantu arahkan untuk mengupdate / memperbarui aplikasi sesuai dengan ketentuan yang berlaku
+
+TETAPI jika aplikasi memang tidak memungkinkan untuk ditayangkan **Uang akan kami refund dipotong biaya charge**.
 
 2\. **GARANSI 7 HARI aplikasi akan tayang di playstore**
 ,garansi berlaku apabila aplikasi dihapus atau akun kami terbanned ,garansi tersebut berupa :  
 a. Kami akan mengajukan banding ke aplikasi / ke akun yang terbanned agar dapat dipulihkan kembali
 
-3\. Jika aplikasi sudah tayang di Google Playstore dan belum sampai 7 hari dihapus oleh pihak Playstore karena pelanggaran yang terdapat di aplikasi **maka aplikasi tidak dapat kami tayangkan kembali dan tidak ada refund !**.
+3\. Jika aplikasi sudah tayang di Google Playstore dan belum sampai 7 hari dihapus oleh pihak Playstore karena pelanggaran yang terdapat di aplikasi Anda **maka aplikasi tidak dapat kami tayangkan kembali !**.
 
 4\. **APLIKASI TIDAK TAYANG SELAMANYA** tetapi Aplikasi akan tayang selama :  
 a. Selama google mengijinkannya (aplikasi tidak dihapus oleh google)  
@@ -36,19 +38,13 @@ c. Perlu diperhatikan bahwa dalam 1 akun kami memiliki berbagai macam aplikasi y
 * Persyaratan dan Layanan : [https://play.google.com/about/console/terms-of-service/](https://play.google.com/about/console/terms-of-service/)
 * Privacy : [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-### C. Informasi Akun dan Akses Google Play Console
+### C. Informasi Pajak Bulanan dan Update Aplikasi
 
-1\. Untuk pemesanan paket APP-PLUS dan APP-PLATINUM Jasa Upload Aplikasi di Dokun Digital akan kami berikan akses untuk membalas / review dari user yang bisa diakses di [https://play.google.com/apps/publish](https://play.google.com/apps/publish).
+1\. Khusus untuk aplikasi yang bergerak dibidang usaha seperti Toko Online, Topup Pulsa dan kegiatan jual beli maka diwajibkan membayar pajak perbulan sebesar Rp 5.000. Selain kategori aplikasi tersebut maka tidak ada biaya apapun.
 
-2\. Untuk paket APP-PLATINUM, Anda dapat bebas update Aplikasi dengan mengikuti syarat dan ketentuan Google, maksimal **update 1x dalam seminggu**.
+2\. Saat ini akun kami hanya menyediakan upload only, tidak mendapatkan akses seperti balas komentar dan lain sebagainya.
 
-3\. Untuk paket APP-STANDAR, jika kami menerima UPDATE KEBIJAKAN dari Google dan aplikasi diharuskan untuk update, maka diharuskan membayar Rp.50.000 untuk mengupdate paket dari APP-STANDAR ke APP-PLUS. Jika memilih opsi untuk tidak update maka aplikasi akan dihapus otomatis oleh Google.
-
-4\. Update aplikasi hanya dilakukan oleh admin, jadi untuk yang ingin update aplikasi silahkan kirimkan Aplikasi terbaru yang sudah ditingkatkan versinya.
-
-5\. Jika Anda mengupdate aplikasi ke versi yang lebih baru, kemudian kami mendapatkan notifikasi pelanggaran dari Google lebih dari 2x, maka aplikasi akan kita hapus / tarik dari playstore.
-
-6\. Kami berhak menghapus aplikasi yang melanggar ketentuan google play tanpa pemberitahuan sebelumnya.
+3\. Update aplikasi atau update asset lainnya akan dikenakan biaya sebesar Rp 25.000 untuk 1x update, meliputi update aplikasi, screenshot dan asset lainnya. (jangka waktu 1 hari)
 
 ### D. Refund
 

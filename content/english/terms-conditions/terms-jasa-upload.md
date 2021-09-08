@@ -12,21 +12,20 @@ url: "/terms/jasa-upload-apk"
 
 1\. Apabila saat pertama kali upload aplikasi ditolak oleh Google, karena aplikasi melanggar kebijakan / tidak sesuai ketentuan / hal lainnya, maka akan kami berikan kesempatan untuk mengupdate / memperbarui aplikasi sesuai dengan ketentuan yang berlaku, TETAPI jika aplikasi memang tidak memungkinkan untuk ditayangkan **Uang akan kami refund dengan biaya charge**.
 
-2\. **GARANSI 30 HARI aplikasi akan tayang di playstore**
-,garansi berlaku apabila aplikasi dihapus atau akun kami terbanned ,garansi tersebut berupa :\
-a. Kami akan mengajukan banding ke aplikasi / ke akun yang terbanned agar dapat dipulihkan kembali\
-b. Kami akan upload aplikasi ke akun Google Developer lain yang tersedia
+2\. **GARANSI 7 HARI aplikasi akan tayang di playstore**
+,garansi berlaku apabila aplikasi dihapus atau akun kami terbanned ,garansi tersebut berupa :  
+a. Kami akan mengajukan banding ke aplikasi / ke akun yang terbanned agar dapat dipulihkan kembali
 
-3\. Jika aplikasi sudah tayang di Google Playstore dan belum sampai 7 hari dihapus oleh pihak Playstore karena pelanggaran yang dilakukan **maka aplikasi tidak dapat kami tayangkan kembali dan tidak ada refund !**.
+3\. Jika aplikasi sudah tayang di Google Playstore dan belum sampai 7 hari dihapus oleh pihak Playstore karena pelanggaran yang terdapat di aplikasi **maka aplikasi tidak dapat kami tayangkan kembali dan tidak ada refund !**.
 
 4\. **APLIKASI TIDAK TAYANG SELAMANYA** tetapi Aplikasi akan tayang selama :  
-a. Selama google mengijinkannya (tidak dihapus oleh google)  
-b. Selama akun kami tersedia (tidak dibanned oleh google)  
-c. Selama kami & google tidak merubah kebijakan
+a. Selama google mengijinkannya (aplikasi tidak dihapus oleh google)  
+b. Selama akun kami tersedia (akun tidak dibanned oleh google)  
+c. Selama kami & google tidak merubah kebijakan yang menyebabkan dihapusnya aplikasi atau akun
 
-**Note :\
-a. Garansi 30 hari hanya berlaku terhadap aplikasi yang tidak melanggar !.\
-b. Tidak ada retur / pengembalian dana kecuali pada saat proses upload awal aplikasi, karena jasa kami bukan JASA SEUMUR HIDUP.\
+\**Note :  
+a. Garansi 7 hari hanya berlaku terhadap aplikasi yang tidak melanggar !.  
+b. Tidak ada retur / pengembalian dana kecuali pada saat proses upload awal aplikasi, karena jasa kami bukan JASA SEUMUR HIDUP.  
 c. Perlu diperhatikan bahwa dalam 1 akun kami memiliki berbagai macam aplikasi yang diupload oleh pelanggan lain, oleh sebab itu Anda harus siap apabila suatu saat terjadi hal yang tidak diinginkan
 
 ### B. Kebijakan Google Developer

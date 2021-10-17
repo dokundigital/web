@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="{{ with site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+{{- partial "head.html" . -}}
+
+<!-- checking blog -->
+{{ if or (or (eq .Section "produk") )}}
+
+<div class="content">{{.Content}}</div>
+</div>
+        
+{{- partial "footer.html" . -}}
+{{end}}

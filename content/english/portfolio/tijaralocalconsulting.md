@@ -23,10 +23,10 @@ pkategori : "Website"
 
 <br/>
 <div class="row px-2 mt-2">
-    <div class="col-md-6 mb-5 px-1">
+    <div class="col-md-6 mb-3 px-1">
         <a href="https://tijaralocalconsulting.com" target="_blank" rel="nofollow" class="btn btn-porto1 btn-lg btn-block data-aos="fade-right><i class="ti-shopping-cart"></i> Lihat Website</a>
     </div>
-    <div class="col-md-6 mb-5 px-1">
+    <div class="col-md-6 mb-3 px-1">
         <a href="/portfolio" class="btn btn-porto2 btn-lg btn-block data-aos="fade-right><i class="ti-rocket"></i> Ke Halaman Portofolio</a>
     </div>
 </div>

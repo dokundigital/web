@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+<!-- checking blog -->
+{{ if or (or (eq .Section "portfolio") )}}
+
+<section class="section">
+  <div class="container mt-5">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <div class="artikel-info">
+        <h2 class="mb-4 text-center">{{ .Title }}</h2>
+        <p class="p-subinfo text-center"> Published {{ .Date | time.Format ":date_medium" }} by {{ site.Params.author }}</p> 
+        </div>
+        
+        <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100 rounded mb-4">
+        
+        <div class="content">{{.Content}}</div>
+        
+        <!-- comments -->
+        {{ if site.DisqusShortname }}
+        <div class="mt-5">
+          {{ template "_internal/disqus.html" . }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- regular page -->
+{{ else }}
+{{ partial "page-header.html" . }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <div class="content">{{ .Content }}</div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+
+{{ end }}

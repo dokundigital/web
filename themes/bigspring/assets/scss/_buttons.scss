@@ -30,6 +30,8 @@
   background-color: #ee4d2d;
   color: $white;
   border-color: #ee4d2d;
+  padding: 11px;
+  border-radius: 100px;
 
   &:active,
   &:hover {
@@ -53,6 +55,42 @@
   &:active,
   &:hover {
     background-color:#ee4d2d;
+    color:#fff !important;
+  }
+
+  
+}
+
+.btn-porto1 {
+  background:green;
+  color: #fff !important;
+  font-size: 16px;
+  padding: 11px;
+  border-radius: 100px;
+  border: 0;
+  font-weight: 500;
+  transition: all .4s;
+
+  &:active,
+  &:hover {
+    color:#fff !important;
+  }
+
+  
+}
+
+.btn-porto2 {
+  background:$primary-color;
+  color: #fff !important;
+  font-size: 16px;
+  padding: 11px;
+  border-radius: 100px;
+  border: 0;
+  font-weight: 500;
+  transition: all .4s;
+
+  &:active,
+  &:hover {
     color:#fff !important;
   }
 

@@ -46,7 +46,7 @@ link = "https://unicons.iconscout.com/release/v2.1.9/script/monochrome/bundle.js
 # main menu
 
 [[menu.main]]
-name = "Home"
+name = "Beranda"
 url = "/"
 weight = 1
 
@@ -57,22 +57,23 @@ weight = 2
 
 [[menu.main]]
 name = "Produk"
-url = "produk"
+url = "product"
 weight = 3
 
 [[menu.main]]
-name = "FAQ"
-url = "faq"
+name = "Portofolio"
+url = "portfolio"
 weight = 4
+
+[[menu.main]]
+name = "Tanya Jawab"
+url = "faq"
+weight = 5
 
 # footer menu left
 [[menu.footer_left]]
 name = "Hubungi Kami"
 url = "contact"
-
-[[menu.footer_left]]
-name = "Origamy Creative"
-url = "https://origamy.id"
 
 [[menu.footer_left]]
 name = "Official Shopee"
@@ -101,7 +102,7 @@ name = "Persyaratan Layanan"
 url = "persyaratan-layanan"
 
 [[menu.footer_right]]
-name = "FAQ"
+name = "Tanya Jawab"
 url = "faq"
 
 #################### default parameters ################################
@@ -142,15 +143,14 @@ title = "whatsapp"
 icon = "ti-headphone-alt" 
 link = "https://wa.me/6285156190575"
 
-
-############################# English ############################
+############################# Indonesia ############################
 [languages.en]
 languageName = "En"
 title = "Dokun Digital"
-contentDir = "content/english" # content/english
+contentDir = "content/english" 
 weight = 1
 ########### footer content ##########
-footer_menu_left = "Company"
+footer_menu_left = "Informasi"
 footer_menu_right = "Dukungan"
 footer_content = "Temukan berbagai macam produk digital untuk bisnis kamu hanya di Dokun Digital."
 # copyright

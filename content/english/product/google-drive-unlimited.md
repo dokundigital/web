@@ -9,7 +9,9 @@ type: "produk"
 description: "Jual akun google drive unlimited murah"
 # post draft
 draft: false
-url : /produk/google-drive-unlimited
+url : google-drive-unlimited
+aliases : 
+- /produk/google-drive-unlimited
 #produk detail
 harga : "35.000 (KOSONG)"
 deskripsi : "Akun Google Drive Unlimited adalah akun yang memiliki penyimpanan Google Drive yang berkapasitas unlimited. Akun ini sama seperti gmail pada umumnya"

@@ -3,7 +3,7 @@
 {{ partial "page-header.html" . }}
 
 <!-- checking blog -->
-{{ if or (or (eq .Section "portofolio") )}}
+{{ if or (or (eq .Section "portfolio") )}}
 
   <div class="container">
     <div class="row">
@@ -11,10 +11,10 @@
       {{ range $paginator.Pages }}
 
       <div class="col-lg-4 mt-4">
-        <div class="card card-produk explore-feature border-0 rounded-lg text-center bg-white">
+        <div class="card card-product explore-feature border-0 rounded-lg text-center bg-white">
             <div class="card-body p-3 border-branding">
-                <img src="{{ .Params.image |relURL }}" alt="{{ .Title }}" class="card-img-top rounded">
-                <h5 class="mt-3 title produk-front-title"><a class="blog-a" data-toggle="modal" data-target="#portfolioDokun">{{ .Title }}</a></h5>
+                <a href="{{ .Permalink }}"><img src="{{ .Params.image |relURL }}" alt="{{ .Title }}" class="card-img-top rounded"></a>
+                <h5 class="mt-3 title product-front-title"><a class="blog-a" href="{{ .Permalink }}">{{ .Title }}</a></h5>
                 <h3 class="p-harga-detail"><i class="uil uil-bookmark"></i> {{ .Params.pkategori }}</h3>
             </div>
         </div>

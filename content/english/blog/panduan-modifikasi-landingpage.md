@@ -1,6 +1,6 @@
 ---
 title: "Panduan Modifikasi Landing Page Dokun Digital"
-date: 2022-05-28T10:07:21+06:00
+date: 2022-05-27T10:07:21+06:00
 # post image
 image: "images/blog/post-1.jpg"
 # post type (regular/featured)

@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dokundigital.com/blog/</loc>
+    <lastmod>2022-04-18T10:07:21+06:00</lastmod>
+  </url><url>
     <loc>https://dokundigital.com/</loc>
-    <lastmod>2022-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-18T10:07:21+06:00</lastmod>
+  </url><url>
+    <loc>https://dokundigital.com/panduan-modifikasi-landingpage/</loc>
+    <lastmod>2022-04-18T10:07:21+06:00</lastmod>
   </url><url>
     <loc>https://dokundigital.com/portfolio/</loc>
     <lastmod>2022-04-03T00:00:00+00:00</lastmod>
@@ -31,9 +37,6 @@
   </url><url>
     <loc>https://dokundigital.com/portfolio/website-zakudigital/</loc>
     <lastmod>2022-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dokundigital.com/blog/</loc>
-    <lastmod>2021-08-23T17:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dokundigital.com/update-dokun-digital-3/</loc>
     <lastmod>2021-08-23T17:00:00+00:00</lastmod>

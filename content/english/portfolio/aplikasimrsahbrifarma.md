@@ -17,7 +17,6 @@ pkategori : "Aplikasi"
 | <b>Informasi</b> |  |
 | :------------- |:-------------|
 | Kategori              | Aplikasi    | 
-| Estimasi Harga        | 3.000.000 - 4.000.000   |
 
 <br/>
 <div class="row px-2 mt-2">

@@ -16,10 +16,9 @@ pkategori : "Website"
 
 | <b>Informasi</b> |  |
 | :------------- |:-------------|
-| Kategori              | Website    | 
+| Kategori              | Website    |
 | Jenis Website         | Personal & Shop Website   |
 | Alamat Website        | https://takumikent.com     |
-| Estimasi Harga        | 850.000 - 1.100.000   |
 
 <br/>
 <div class="row px-2 mt-2">

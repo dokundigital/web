@@ -16,10 +16,9 @@ pkategori : "Website"
 
 | <b>Informasi</b> |  |
 | :------------- |:-------------|
-| Kategori              | Website    | 
+| Kategori              | Website    |
 | Jenis Website         | Landing Page - Profile    |
 | Alamat Website        | https://zakudigital.com     |
-| Estimasi Harga        | 300.000 - 400.000    |
 
 <br/>
 <div class="row px-2 mt-2">

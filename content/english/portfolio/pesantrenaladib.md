@@ -16,10 +16,9 @@ pkategori : "Website"
 
 | <b>Informasi</b> |  |
 | :------------- |:-------------|
-| Kategori              | Website    | 
+| Kategori              | Website    |
 | Jenis Website         | Sekolah / Instansi   |
 | Alamat Website        | https://pesantrenaladib.com   |
-| Estimasi Harga        | 850.000 - 1.000.000     |
 
 <br/>
 <div class="row px-2 mt-2">

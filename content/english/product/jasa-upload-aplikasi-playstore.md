@@ -31,7 +31,7 @@ Berikut adalah paket Jasa Upload APK ke Playstore
   
   <!-- APP STANDAR -->
   <div class="col-md-4 mx-auto mt-3 px-4">
-     <div class="card pricing-rates starter-plan text-center shadow rounded-lg border-0">
+     <div class="card pricing-rates starter-plan text-center shadow rounded-lg border-0 my-3">
         <div class="card-body py-3">
           <h3 class="title text-primary">APP-STANDAR</h3>
                  <hr>
@@ -53,7 +53,7 @@ Berikut adalah paket Jasa Upload APK ke Playstore
 
   <!-- APP PLUS -->
   <div class="col-md-4 mx-auto mt-3 px-4">
-     <div class="card pricing-rates starter-plan text-center shadow rounded-lg border-0">
+     <div class="card pricing-rates starter-plan text-center shadow rounded-lg border-0 my-3">
         <div class="card-body py-3">
           <h3 class="title text-primary">APP-PLUS</h3>
                  <hr>
@@ -75,7 +75,7 @@ Berikut adalah paket Jasa Upload APK ke Playstore
 
   <!-- APP PLATINUM -->
   <div class="col-md-4 mx-auto mt-3 px-4">
-     <div class="card pricing-rates starter-plan text-center shadow rounded-lg border-0">
+     <div class="card pricing-rates starter-plan text-center shadow rounded-lg border-0 my-3">
         <div class="card-body py-3">
           <h3 class="title text-primary">APP-PLATINUM</h3>
                  <hr>

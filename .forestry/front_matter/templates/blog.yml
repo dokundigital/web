@@ -21,6 +21,7 @@ fields:
   name: url
   label: url
 pages:
+- content/english/blog/apa-itu-google-play-console.md
 - content/english/blog/website-dokun-digital-update-ke-versi-2.md
 - content/english/blog/website-dokun-digital-update-ke-versi-3.md
 - content/english/terms-conditions/backup-terms-jasa-upload.md
